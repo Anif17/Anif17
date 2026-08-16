@@ -1,7 +1,7 @@
 Hello, I'm Anif 👋
 
-- 🎓 Currently pursuing CS259 – Bachelor of Information Systems (Hons.) Intelligent Systems Engineering
+- 🎓 Graduated with a Bachelor of Information Systems (Hons.) in Intelligent Systems Engineering (CS259)
 - 🌱 Learning and developing skills toward becoming an AI Engineer
-- 🧠 Love experimenting with AI models and automation tools
+- 🧠 Love experimenting with AI Agentic, AI Models and Automation tools
 - ☕ Fueled by coffee and curiosity
 
